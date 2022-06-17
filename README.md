@@ -1,6 +1,6 @@
 # Super-store-data-analysis with Pandas, numpy, seaborn and Matplotlib
 
-#### Dataset Link: https://www.kaggle.com/datasets/lava18/google-play-store-apps 
+#### Dataset Link: https://www.kaggle.com/datasets/jr2ngb/superstore-data
 #### Source: Kaggle.com
   Dataset is in the form of CSV File
 
